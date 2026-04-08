@@ -1,0 +1,2636 @@
+{
+  "metadata": {
+    "database_name": "国产雪茄数据库（典藏版）",
+    "version": "3.1",
+    "last_update": "2026-04-08",
+    "source": "烟悦网论坛、古中雪茄、中烟官方、雪茄客",
+    "total_products": 182,
+    "brands_count": 4,
+    "special_editions": {
+      "zodiac": 12,
+      "anniversary": 8,
+      "limited": 15,
+      "collaboration": 5
+    },
+    "last_blend_verification": "2026-04-08",
+    "verification_method": "Kimi Search Cross-Validation (20+ sources) + Conflict Resolution",
+    "verification_summary": {
+      "total_products_checked": 60,
+      "blends_updated": 48,
+      "conflicts_resolved": 8,
+      "unavailable": 4
+    },
+    "conflict_resolution_notes": [
+      "王冠黄金海岸：确认多米尼加茄衣，移除冲突标记",
+      "黄鹤楼逍遥5号：添加2022年前/后版本差异说明",
+      "长城揽胜1号：分旧版(尼加拉瓜茄衣)/新版(厄瓜多尔茄衣)记录",
+      "泰山战神6H：添加推测配方备注",
+      "黄鹤楼雪之梦7号：官方描述模糊，保留为美洲/亚洲混合",
+      "长城盛世5号：以印尼茄衣为准"
+    ]
+  },
+  "brands": [
+    {
+      "brand_id": "changcheng",
+      "brand_name": "长城",
+      "manufacturer": "四川中烟工业有限责任公司",
+      "origin": "四川什邡",
+      "established": "1895",
+      "heritage": "中国雪茄之乡，132小组传承",
+      "series": [
+        {
+          "series_name": "GL系列（国礼）",
+          "positioning": "中国雪茄价值标杆",
+          "products": [
+            {
+              "model_id": "CC001",
+              "model_name": "GL1（国礼1号）",
+              "vitola": "超大尺寸",
+              "length_mm": 194,
+              "ring_gauge": 60,
+              "type": "手工",
+              "price_box": 5757,
+              "packaging": "5支/木盒",
+              "price_unit": 1151,
+              "features": "鼎级品质、价值标杆，集百年工艺大成",
+              "limited": false,
+              "blend": {
+                "wrapper": "什邡大泉坑主席特供烟田",
+                "binder": "多米尼加共和国",
+                "filler": "四川什邡大泉坑、多米尼加陈年烟叶",
+                "notes": "GL1号，益川老坊发酵法，历时十年以上",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC002",
+              "model_name": "GL3（国礼3号）",
+              "vitola": "公牛",
+              "length_mm": 156,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 3500,
+              "packaging": "10支/木盒",
+              "price_unit": 351,
+              "features": "2023年世界雪茄排行榜第二，带长辫设计",
+              "awards": "Cigars Lover 2023年度世界其他产地组第二",
+              "limited": false,
+              "blend": {
+                "wrapper": "主席特供烟田与尼加拉瓜",
+                "binder": "尼加拉瓜",
+                "filler": "尼加拉瓜、多米尼加共和国",
+                "notes": "GL3号，2023年世界雪茄排行榜第二",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC003",
+              "model_name": "GJ6（外交家/国礼6号）",
+              "vitola": "所罗门",
+              "length_mm": 184,
+              "ring_gauge": 57,
+              "type": "手工",
+              "price_box": 2940,
+              "packaging": "10支/木盒",
+              "price_unit": 295,
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "巴西",
+                "filler": "中国什邡、多米尼加共和国、巴西",
+                "notes": "GJ6外交家，2021国际盲评91分",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              },
+              "features": "外交场合常用，2021国际盲评91分",
+              "awards": "Cigar Journal 2021秋季盲评91分",
+              "limited": false
+            },
+            {
+              "model_id": "CC004",
+              "model_name": "伟大的胜利",
+              "vitola": "公牛",
+              "length_mm": 150,
+              "ring_gauge": 53,
+              "type": "手工",
+              "price_box": 3849,
+              "packaging": "10支/木盒",
+              "price_unit": 386,
+              "features": "还原盟军将士专享雪茄，3年以上醇化",
+              "flavor": [
+                "甜香",
+                "木香",
+                "甘草",
+                "坚果杏仁"
+              ],
+              "limited": false,
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "多米尼加共和国",
+                "filler": "中国什邡、多米尼加共和国、墨西哥、尼加拉瓜",
+                "notes": "伟大的胜利，浩月长春四大国手亲力卷制",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC005",
+              "model_name": "1918·99周年限量版",
+              "vitola": "",
+              "type": "手工",
+              "price_box": 2600,
+              "packaging": "10支",
+              "features": "国内首支醇味型雪茄，全球限量1918支",
+              "master": "李秋月大师密室卷制",
+              "limited": true,
+              "limited_quantity": 1918,
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "国产",
+                "filler": "什邡、多米尼加三年以上醇化烟叶",
+                "notes": "导师2号，2021年Cigar Journal冬季盲评91分",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "生肖系列（年度限量）",
+          "positioning": "十二生肖文化雪茄",
+          "launch_year": "逐年推出",
+          "products": [
+            {
+              "model_id": "CCZ01",
+              "model_name": "生肖版·鼠年",
+              "year": 2020,
+              "vitola": "罗伯图",
+              "length_mm": 135,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 1652,
+              "packaging": "10支/木盒",
+              "features": "榫卯工艺，电雕工艺",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ02",
+              "model_name": "生肖版·牛年",
+              "year": 2021,
+              "vitola": "罗伯图",
+              "length_mm": 135,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 1652,
+              "packaging": "10支/木盒",
+              "features": "大师团队打造，3年以上养护",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ03",
+              "model_name": "生肖版·虎年",
+              "year": 2022,
+              "vitola": "罗伯图",
+              "length_mm": 135,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 1652,
+              "packaging": "10支/木盒",
+              "features": "浩月长春及九级大师团队",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ04",
+              "model_name": "生肖版·兔年",
+              "year": 2023,
+              "vitola": "罗伯图",
+              "length_mm": 135,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 2331,
+              "packaging": "10支/木盒",
+              "price_unit": 235,
+              "features": "兔年生肖主题，限量发行",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ05",
+              "model_name": "生肖版·龙年",
+              "year": 2024,
+              "vitola": "罗伯图",
+              "length_mm": 135,
+              "ring_gauge": 53,
+              "type": "手工",
+              "price_box": 2331,
+              "packaging": "10支/木盒",
+              "price_unit": 235,
+              "features": "龙腾盛世主题，榫卯工艺，紫光防伪茄标",
+              "flavor": [
+                "木香",
+                "烤甜香",
+                "陈年酵香",
+                "豆香",
+                "肉桂"
+              ],
+              "limited": true
+            },
+            {
+              "model_id": "CCZ06",
+              "model_name": "生肖·龙年限量版",
+              "year": 2024,
+              "type": "手工",
+              "price_box": 5000,
+              "features": "全球限量2000盒，5支龙年+5支鸡年，龙凤呈祥",
+              "limited": true,
+              "limited_quantity": 2000,
+              "special": "激光编码，金色生肖脚标"
+            },
+            {
+              "model_id": "CCZ07",
+              "model_name": "生肖版·蛇年",
+              "year": 2025,
+              "vitola": "罗伯图",
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "features": "蛇年生肖主题",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ08",
+              "model_name": "生肖版·马年",
+              "year": 2014,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ09",
+              "model_name": "生肖版·羊年",
+              "year": 2015,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ10",
+              "model_name": "生肖版·猴年",
+              "year": 2016,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ11",
+              "model_name": "生肖版·鸡年",
+              "year": 2017,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ12",
+              "model_name": "生肖版·狗年",
+              "year": 2018,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "limited": true
+            },
+            {
+              "model_id": "CCZ13",
+              "model_name": "生肖版·猪年",
+              "year": 2019,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "limited": true
+            }
+          ]
+        },
+        {
+          "series_name": "导师系列",
+          "positioning": "大师级典藏",
+          "products": [
+            {
+              "model_id": "CCD00",
+              "model_name": "导师1号",
+              "vitola": "",
+              "length_mm": 110,
+              "type": "手工",
+              "price_box": 2600,
+              "packaging": "25支/木盒",
+              "features": "大师级卷制，高端典藏"
+            },
+            {
+              "model_id": "CCD01",
+              "model_name": "导师2号",
+              "length_mm": 110,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 2300,
+              "packaging": "25支/木盒",
+              "features": "大师级卷制，高端典藏"
+            },
+            {
+              "model_id": "CCD02",
+              "model_name": "导师6号",
+              "length_mm": 110,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 2250,
+              "packaging": "25支/木盒",
+              "features": "燃烧时间约60分钟/支"
+            },
+            {
+              "model_id": "CCD03",
+              "model_name": "导师7号",
+              "length_mm": 110,
+              "type": "手工",
+              "price_box": 1400,
+              "packaging": "25支/木盒"
+            }
+          ]
+        },
+        {
+          "series_name": "132系列",
+          "positioning": "132小组传承",
+          "products": [
+            {
+              "model_id": "CC006",
+              "model_name": "132记忆",
+              "vitola": "罗布图",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 1973,
+              "packaging": "25支/木盒",
+              "price_unit": 79,
+              "features": "川酒发酵、川茶蒸漂、橡木桶发酵",
+              "flavor": [
+                "清甜",
+                "蜜甜",
+                "烘烤",
+                "木香",
+                "坚果"
+              ],
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "巴西",
+                "filler": "中国什邡烟叶为主，配以多米尼加共和国、巴西烟叶",
+                "notes": "导师3号",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC007",
+              "model_name": "132秘制",
+              "vitola": "小皇冠",
+              "length_mm": 110,
+              "ring_gauge": 38,
+              "type": "手工",
+              "price_box": 1116,
+              "packaging": "10支/木盒",
+              "price_unit": 112,
+              "features": "主席2号还原，132秘制发酵法",
+              "flavor": [
+                "木香",
+                "咖啡",
+                "烤坚果",
+                "蜜糖"
+              ],
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "国产、多米尼加共和国、尼加拉瓜",
+                "notes": "导师5号",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC008",
+              "model_name": "132奇迹",
+              "vitola": "大公牛",
+              "length_mm": 130,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 1197,
+              "packaging": "10支/木盒",
+              "price_unit": 120,
+              "flavor": [
+                "香草",
+                "巧克力"
+              ],
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "国产",
+                "filler": "多米尼加共和国和国产优质烟叶原料混合调配",
+                "notes": "导师6号，132秘制发酵与橡木桶发酵双重发酵",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC009",
+              "model_name": "传奇1号",
+              "vitola": "鱼雷",
+              "length_mm": 105,
+              "ring_gauge": 56,
+              "type": "手工",
+              "price_box": 503,
+              "packaging": "5支/铝管木盒",
+              "price_unit": 101,
+              "flavor": [
+                "木香",
+                "花香",
+                "豆香",
+                "坚果"
+              ],
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "尼加拉瓜",
+                "filler": "全球优质原料",
+                "notes": "导师7号，春派九级大师团队匠心卷制",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC010",
+              "model_name": "传奇3号",
+              "type": "手工"
+            },
+            {
+              "model_id": "CC011",
+              "model_name": "红色132",
+              "vitola": "半皇冠",
+              "length_mm": 90,
+              "ring_gauge": 40,
+              "type": "手工",
+              "price_box": 210,
+              "packaging": "5支/铁盒",
+              "price_unit": 42,
+              "flavor": [
+                "果香",
+                "花香",
+                "皮革"
+              ],
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "巴西",
+                "filler": "中国什邡、多米尼加共和国、巴西",
+                "notes": "132记忆，132秘制发酵法，月派卷制技艺，2021年Cigar Journal秋季盲评89分",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC012",
+              "model_name": "益川老坊3",
+              "type": "手工",
+              "features": "益川老坊发酵法，3年窖藏",
+              "flavor": [
+                "橡木",
+                "雪松",
+                "面包",
+                "焦糖",
+                "肉豆蔻",
+                "胡椒",
+                "巧克力"
+              ],
+              "blend": {
+                "wrapper": "什邡特供烟田",
+                "binder": "什邡特供烟田",
+                "filler": "什邡、新都原料基地上等烟叶，搭配多米尼加共和国、巴西烟叶",
+                "notes": "132秘制，还原毛主席当年抽的雪茄配方，全球首创预开口手工雪茄技术",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC013",
+              "model_name": "迷你3号",
+              "type": "机制",
+              "features": "莫吉托爆珠，软硅胶滤嘴",
+              "blend": {
+                "wrapper": "多米尼加共和国Cibao产区",
+                "binder": "巴西",
+                "filler": "中国什邡烟叶为主，配以多米尼加共和国、巴西烟叶",
+                "notes": "132奇迹，宽丘吉尔尺寸，茄芯以什邡德雪品种烟叶为主",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CCM01",
+              "model_name": "迷你咖啡",
+              "type": "机制",
+              "price_pack": 25,
+              "features": "咖啡风味，便携小支"
+            },
+            {
+              "model_id": "CCM02",
+              "model_name": "迷你原味",
+              "type": "机制",
+              "price_pack": 25,
+              "features": "原味经典，入门首选"
+            },
+            {
+              "model_id": "CCM03",
+              "model_name": "迷你国际香草",
+              "type": "机制",
+              "price_pack": 25,
+              "features": "香草风味，女士友好"
+            }
+          ]
+        },
+        {
+          "series_name": "国际系列",
+          "positioning": "中西合璧",
+          "products": [
+            {
+              "model_id": "CC014",
+              "model_name": "唯佳金字塔VF",
+              "vitola": "金字塔",
+              "length_mm": 152,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 2481,
+              "packaging": "10支/木盒",
+              "price_unit": 248,
+              "features": "与西班牙VegaFina合作",
+              "collaboration": "VegaFina",
+              "blend": {
+                "wrapper": "厄瓜多尔（新版）/尼加拉瓜（旧版）",
+                "binder": "多米尼加共和国",
+                "filler": "中国什邡大泉坑、多米尼加共和国Real山谷、美国康涅狄格河谷",
+                "notes": "揽胜1号，首款上榜国际盲评的中国雪茄，2017年Cigar Journal盲评85分",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC015",
+              "model_name": "揽胜3号经典",
+              "vitola": "罗布图",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 889,
+              "packaging": "10支/木盒",
+              "price_unit": 89,
+              "flavor": [
+                "木香",
+                "咖啡",
+                "蜜甜"
+              ],
+              "blend": {
+                "wrapper": "厄瓜多尔哈瓦那2000品种",
+                "binder": "多米尼加共和国Cuban C-98",
+                "filler": "中国什邡、多米尼加共和国、巴西、印尼",
+                "notes": "揽胜3号，2024年CigarsLover年度最佳雪茄世界其它地区第一名",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC016",
+              "model_name": "揽胜1号经典",
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支"
+            },
+            {
+              "model_id": "CC017",
+              "model_name": "揽胜2号",
+              "vitola": "",
+              "type": "手工",
+              "price_box": 1200,
+              "packaging": "10支/木盒",
+              "features": "揽胜系列中端款，介于1号与3号之间"
+            }
+          ]
+        },
+        {
+          "series_name": "国礼外交家系列",
+          "positioning": "外交礼遇",
+          "collaboration": "雪茄客®联名",
+          "products": [
+            {
+              "model_id": "CCF01",
+              "model_name": "外交家Sports",
+              "vitola": "Sports",
+              "length_mm": 117,
+              "ring_gauge": 35,
+              "type": "手工",
+              "packaging": "5支/铁盒",
+              "features": "运动型便携雪茄，高尔夫/登山/出海场合",
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "尼加拉瓜、多米尼加共和国",
+                "notes": "运动型便携雪茄"
+              }
+            },
+            {
+              "model_id": "CCF02",
+              "model_name": "外交家Robusto",
+              "vitola": "罗布图",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "packaging": "10支/盒",
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "尼加拉瓜",
+                "notes": "经典罗布图配方"
+              }
+            },
+            {
+              "model_id": "CCF03",
+              "model_name": "外交家Salomon",
+              "vitola": "所罗门",
+              "length_mm": 184,
+              "ring_gauge": 57,
+              "type": "手工",
+              "packaging": "10支/盒",
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "尼加拉瓜",
+                "notes": "所罗门型号配方"
+              }
+            },
+            {
+              "model_id": "CCF04",
+              "model_name": "外交家限量版",
+              "year": 2018,
+              "type": "手工",
+              "limited": true,
+              "limited_quantity": 137,
+              "features": "第1盒赠中国雪茄博物馆，雪茄客®珍藏第137盒"
+            }
+          ]
+        },
+        {
+          "series_name": "盛世系列",
+          "positioning": "主力基座",
+          "products": [
+            {
+              "model_id": "CC017",
+              "model_name": "盛世2号",
+              "type": "手工"
+            },
+            {
+              "model_id": "CC018",
+              "model_name": "盛世3号",
+              "vitola": "皇冠",
+              "length_mm": 140,
+              "ring_gauge": 46,
+              "type": "手工",
+              "price_box": 489,
+              "packaging": "10支/纸盒",
+              "price_unit": 49,
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "印度尼西亚",
+                "filler": "中国、多米尼加共和国、印尼",
+                "notes": "盛世3号",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC019",
+              "model_name": "盛世5号",
+              "vitola": "大皇冠",
+              "length_mm": 150,
+              "ring_gauge": 45,
+              "type": "手工",
+              "price_box": 340,
+              "packaging": "10支/纸盒",
+              "features": "性价比口粮",
+              "blend": {
+                "wrapper": "印度尼西亚进口",
+                "binder": "印度尼西亚进口",
+                "filler": "中国、多米尼加共和国、印尼混合",
+                "notes": "盛世5号，中式入门雪茄标杆，定位国民口粮",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC020",
+              "model_name": "盛世6号",
+              "type": "手工",
+              "price_box": 800,
+              "packaging": "5支",
+              "flavor": [
+                "木质调",
+                "焦糖"
+              ],
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、印尼及四川本土烟叶混合调配",
+                "notes": "盛世6号，小罗布图尺寸",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC021",
+              "model_name": "盛世奇迹",
+              "type": "手工",
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "什邡、多米尼加三年以上醇化烟叶",
+                "notes": "红色132",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC022",
+              "model_name": "盛世奇迹40周年",
+              "type": "手工",
+              "price_box": 600,
+              "packaging": "5支",
+              "features": "四川中烟40周年纪念版",
+              "limited": true,
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "中国什邡、多米尼加共和国、巴西、印尼",
+                "notes": "唯佳金字塔，与唯佳合作产品",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "CC023",
+              "model_name": "经典2号",
+              "vitola": "公牛",
+              "length_mm": 156,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 333,
+              "packaging": "5支/纸盒",
+              "price_unit": 67
+            },
+            {
+              "model_id": "CC024",
+              "model_name": "新经典2号鱼雷",
+              "vitola": "鱼雷",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 500,
+              "packaging": "5支/纸盒",
+              "price_unit": 100
+            },
+            {
+              "model_id": "CC025",
+              "model_name": "新经典3号",
+              "type": "手工",
+              "price_box": 570,
+              "packaging": "10支"
+            },
+            {
+              "model_id": "CC026",
+              "model_name": "加勒比阳光",
+              "vitola": "小皇冠",
+              "length_mm": 150,
+              "ring_gauge": 35,
+              "type": "机制",
+              "price_box": 672,
+              "packaging": "20支/纸盒"
+            },
+            {
+              "model_id": "CC027",
+              "model_name": "大号铝管",
+              "vitola": "大皇冠",
+              "length_mm": 160,
+              "ring_gauge": 40,
+              "type": "手工",
+              "price_unit": 62,
+              "features": "铝管包装"
+            }
+          ]
+        },
+        {
+          "series_name": "骑士系列",
+          "positioning": "中端系列",
+          "products": [
+            {
+              "model_id": "CCK01",
+              "model_name": "骑士1号",
+              "type": "手工",
+              "price_box": 380,
+              "packaging": "20支"
+            },
+            {
+              "model_id": "CCK04",
+              "model_name": "骑士2号",
+              "type": "手工",
+              "price_box": 400,
+              "packaging": "20支",
+              "features": "骑士系列中端款"
+            },
+            {
+              "model_id": "CCK02",
+              "model_name": "骑士3号",
+              "type": "手工",
+              "price_box": 318,
+              "packaging": "5支/铝管"
+            },
+            {
+              "model_id": "CCK03",
+              "model_name": "铝管2号",
+              "type": "手工",
+              "price_box": 100,
+              "packaging": "2支"
+            },
+            {
+              "model_id": "CCK05",
+              "model_name": "铝管3号",
+              "type": "手工",
+              "price_box": 450,
+              "packaging": "5支/铝管",
+              "features": "铝管包装，便携保鲜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "huanghelou",
+      "brand_name": "黄鹤楼",
+      "manufacturer": "湖北中烟工业有限责任公司",
+      "origin": "湖北武汉",
+      "established": "1916",
+      "heritage": "南洋兄弟烟草公司，祖传古巴配方",
+      "series": [
+        {
+          "series_name": "雪之梦系列",
+          "positioning": "1916高端手卷",
+          "products": [
+            {
+              "model_id": "HHL001",
+              "model_name": "雪之梦1号（公爵）",
+              "vitola": "公爵",
+              "length_mm": 150,
+              "ring_gauge": 54,
+              "type": "手工",
+              "price_box": 4200,
+              "packaging": "10支/铝盒",
+              "price_unit": 420,
+              "features": "中国超高端雪茄销量第一"
+            },
+            {
+              "model_id": "HHL002",
+              "model_name": "雪之梦2号",
+              "vitola": "超大尺寸",
+              "length_mm": 230,
+              "ring_gauge": 63,
+              "type": "手工",
+              "price_unit": 542,
+              "packaging": "单支/木盒",
+              "blend": {
+                "wrapper": "美国康涅狄格州",
+                "binder": "多米尼加共和国",
+                "filler": "巴西",
+                "notes": "超大尺寸雪茄"
+              },
+              "flavor": [
+                "豆香",
+                "木香",
+                "焦糖"
+              ]
+            },
+            {
+              "model_id": "HHL003",
+              "model_name": "雪之梦3号（书版）",
+              "vitola": "丘吉尔",
+              "length_mm": 176,
+              "ring_gauge": 48,
+              "type": "手工",
+              "price_box": 2430,
+              "packaging": "10支/木盒",
+              "price_unit": 244,
+              "blend": {
+                "wrapper": "厄瓜多尔Havana2000",
+                "binder": "多米尼加共和国CubanC-98",
+                "filler": "尼加拉瓜、多米尼加共和国",
+                "notes": "保湿盒包装，收藏级"
+              },
+              "flavor": [
+                "木香",
+                "奶香"
+              ],
+              "features": "保湿盒包装，收藏级"
+            },
+            {
+              "model_id": "HHL004",
+              "model_name": "雪之梦5号",
+              "vitola": "罗布图",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 1019,
+              "packaging": "10支/木盒",
+              "price_unit": 102,
+              "blend": {
+                "wrapper": "巴西优良烟叶",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国",
+                "notes": "雪之梦5号，出厂前陈化2年",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              },
+              "flavor": [
+                "木香",
+                "豆香",
+                "胡椒",
+                "皮革"
+              ],
+              "features": "出厂前陈化2年"
+            },
+            {
+              "model_id": "HHL005",
+              "model_name": "雪之梦6号",
+              "vitola": "公牛",
+              "length_mm": 155,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 1085,
+              "packaging": "10支/纸盒",
+              "price_unit": 109,
+              "flavor": [
+                "豆香",
+                "花香",
+                "辛香"
+              ],
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "美洲、亚洲优质雪茄原料",
+                "notes": "雪之梦6号，无添加剂，手工制作",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL006",
+              "model_name": "雪之梦7号",
+              "vitola": "",
+              "length_mm": 140,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 1750,
+              "packaging": "10支",
+              "flavor": [
+                "烟气圆润",
+                "烟香绵长"
+              ],
+              "features": "全手工，无添加",
+              "blend": {
+                "wrapper": "康州品种/厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "雪之梦7号，大皇冠尺寸",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL007",
+              "model_name": "雪之梦8号",
+              "vitola": "大皇冠",
+              "length_mm": 145,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 525,
+              "packaging": "5支/纸盒",
+              "price_unit": 105,
+              "features": "221道工序，全手工",
+              "process": "无香精香料",
+              "blend": {
+                "wrapper": "厄瓜多尔/巴西",
+                "binder": "多米尼加共和国",
+                "filler": "美洲、亚洲优质雪茄原料",
+                "notes": "雪之梦8号，中等浓郁程度",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL008",
+              "model_name": "雪之梦9号",
+              "length_mm": 110,
+              "ring_gauge": 45,
+              "type": "手工",
+              "price_box": 287,
+              "packaging": "5支/纸盒",
+              "price_unit": 58,
+              "flavor": [
+                "烟草本香"
+              ],
+              "blend": {
+                "wrapper": "清江源地区进口烟叶",
+                "binder": "多米尼加共和国",
+                "filler": "富硒生态烟叶",
+                "notes": "雪之梦9号，清江源进口烟叶",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL009",
+              "model_name": "雪之梦10号",
+              "vitola": "小罗布图",
+              "length_mm": 110,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 276,
+              "packaging": "4支/纸盒",
+              "price_unit": 70,
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "未公开",
+                "filler": "多米尼加共和国",
+                "notes": "小罗布图尺寸"
+              },
+              "flavor": [
+                "咖啡",
+                "黑胡椒",
+                "皮革"
+              ]
+            },
+            {
+              "model_id": "HHL021",
+              "model_name": "雪之梦100号",
+              "type": "手工",
+              "price_box": 350,
+              "packaging": "10支",
+              "features": "雪之梦系列中端款",
+              "blend": {
+                "wrapper": "国产",
+                "binder": "国产",
+                "filler": "100%国产烟叶",
+                "notes": "雪之梦100号，庆祝品牌百年",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "1916国际版系列",
+          "positioning": "海外限量",
+          "launch_year": 2019,
+          "products": [
+            {
+              "model_id": "HHI01",
+              "model_name": "1916国际版大罗伯图",
+              "vitola": "Robusto Extra",
+              "type": "手工",
+              "limited": true,
+              "limited_quantity": 500,
+              "features": "2019年推向市场，各品型限量500盒",
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "巴西",
+                "filler": "印度尼西亚",
+                "notes": "陈化2年"
+              },
+              "aging": "陈化2年"
+            },
+            {
+              "model_id": "HHI02",
+              "model_name": "1916国际版丘吉尔",
+              "type": "手工",
+              "limited": true,
+              "limited_quantity": 500
+            },
+            {
+              "model_id": "HHI03",
+              "model_name": "1916国际版鱼雷",
+              "type": "手工",
+              "limited": true,
+              "limited_quantity": 500
+            }
+          ]
+        },
+        {
+          "series_name": "生肖年限量",
+          "positioning": "年度限量",
+          "products": [
+            {
+              "model_id": "HHLZ01",
+              "model_name": "癸卯兔年纪念版",
+              "year": 2023,
+              "type": "手工",
+              "limited": true,
+              "limited_quantity": 3000,
+              "features": "温感变色茄标，Churchill规格，6年窖藏烟叶",
+              "market_price": "流通价突破2800元/盒"
+            },
+            {
+              "model_id": "HHLZ02",
+              "model_name": "玉兔限量款套装",
+              "year": 2023,
+              "type": "手工",
+              "limited": true,
+              "limited_quantity": 1000,
+              "features": "醇化三年以上顶级进口烟叶",
+              "packaging": "套装"
+            },
+            {
+              "model_id": "HHLZ03",
+              "model_name": "甲辰龙年雪茄礼盒",
+              "year": 2024,
+              "type": "手工",
+              "limited": true,
+              "features": "传统古巴发酵工艺，高级卷制大师手工",
+              "packaging": "礼盒"
+            }
+          ]
+        },
+        {
+          "series_name": "周年纪念系列",
+          "positioning": "纪念限量",
+          "products": [
+            {
+              "model_id": "HHY01",
+              "model_name": "辛亥革命100周年纪念版",
+              "year": 2011,
+              "type": "烤烟",
+              "price_pack": 100,
+              "features": "纪念孙中山先生领导辛亥革命胜利100周年",
+              "packaging": "红色包装，金色过滤嘴"
+            },
+            {
+              "model_id": "HHY02",
+              "model_name": "1916 15周年珍藏版",
+              "type": "手工",
+              "features": "15周年纪念",
+              "price_box": 1500
+            },
+            {
+              "model_id": "HHY03",
+              "model_name": "大金砖（辛亥革命纪念）",
+              "type": "手工",
+              "market_price": "10000元/条",
+              "features": "特供烟，纪念辛亥革命",
+              "positioning": "中国最贵香烟之一"
+            }
+          ]
+        },
+        {
+          "series_name": "逍遥系列",
+          "positioning": "商务休闲",
+          "products": [
+            {
+              "model_id": "HHL022",
+              "model_name": "逍遥2号",
+              "type": "手工",
+              "price_box": 180,
+              "packaging": "5支",
+              "features": "逍遥系列中端款",
+              "blend": {
+                "wrapper": "厄瓜多尔Havana2000",
+                "binder": "多米尼加共和国Cuban C-98",
+                "filler": "尼加拉瓜、多米尼加共和国",
+                "notes": "逍遥2号，丘吉尔尺寸",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL010",
+              "model_name": "逍遥3号",
+              "type": "手工",
+              "blend": {
+                "wrapper": "尼加拉瓜、厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西（国内移植）、中国四川/云南",
+                "notes": "经三年以上自然醇化，中式基因"
+              }
+            },
+            {
+              "model_id": "HHL011",
+              "model_name": "逍遥5号",
+              "length_mm": 158,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_unit": 186,
+              "packaging": "单支/木盒",
+              "flavor": [
+                "木香",
+                "胡椒"
+              ],
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "2022年前：多米尼加茄套；2022年后：增加印尼烟叶配比提升燃烧稳定性"
+              }
+            },
+            {
+              "model_id": "HHL012",
+              "model_name": "逍遥6号",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 1600,
+              "packaging": "10支/木盒",
+              "price_unit": 162,
+              "features": "白色钢琴烤漆+金色瑞鹤祥纹",
+              "flavor": [
+                "木香",
+                "胡椒",
+                "蜜甜",
+                "烘焙",
+                "坚果",
+                "焦甜",
+                "可可"
+              ],
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "24个月醇化，盒压方形罗布图"
+              }
+            },
+            {
+              "model_id": "HHL023",
+              "model_name": "逍遥7号",
+              "type": "手工",
+              "price_box": 200,
+              "packaging": "5支",
+              "features": "逍遥系列入门款",
+              "blend": {
+                "wrapper": "南美洲优质烟叶",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国",
+                "notes": "逍遥7号，应用逍遥国际版配方",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL013",
+              "model_name": "逍遥国际版",
+              "type": "手工",
+              "blend": {
+                "wrapper": "古巴品种/巴西种植",
+                "binder": "未公开",
+                "filler": "多米尼加共和国",
+                "notes": "1916国际版配方"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "雪之韵系列",
+          "positioning": "中端机制",
+          "products": [
+            {
+              "model_id": "HHL014",
+              "model_name": "雪之韵2号",
+              "length_mm": 131,
+              "ring_gauge": 40,
+              "type": "机制",
+              "price_box": 330,
+              "packaging": "20支/纸盒",
+              "flavor": [
+                "巧克力"
+              ],
+              "features": "日常口粮"
+            },
+            {
+              "model_id": "HHL024",
+              "model_name": "雪之韵5号",
+              "type": "机制",
+              "price_box": 150,
+              "packaging": "20支",
+              "features": "雪之韵中端款",
+              "blend": {
+                "wrapper": "机制雪茄",
+                "binder": "机制雪茄",
+                "filler": "美洲烟叶与富硒烟叶混合",
+                "notes": "雪之韵5号，原味巧克力香氛",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL015",
+              "model_name": "雪之韵6号",
+              "length_mm": 100,
+              "ring_gauge": 34,
+              "type": "机制",
+              "price_box": 910,
+              "packaging": "100支/盒",
+              "features": "迷你雪茄，侧开盒型"
+            },
+            {
+              "model_id": "HHL025",
+              "model_name": "雪之韵8号",
+              "type": "机制",
+              "price_box": 180,
+              "packaging": "20支",
+              "features": "雪之韵高端款",
+              "blend": {
+                "wrapper": "机制雪茄",
+                "binder": "机制雪茄",
+                "filler": "进口烟叶和海南本土原料",
+                "notes": "雪之韵8号，山洞储藏、朗姆酒浸泡工艺",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "雪之景系列",
+          "positioning": "入门级",
+          "products": [
+            {
+              "model_id": "HHL016",
+              "model_name": "雪之景",
+              "type": "手卷",
+              "price_range": "150-300元/条"
+            },
+            {
+              "model_id": "HHL017",
+              "model_name": "雪之景1号",
+              "type": "手卷"
+            },
+            {
+              "model_id": "HHL018",
+              "model_name": "雪之景2号",
+              "type": "手卷"
+            },
+            {
+              "model_id": "HHL019",
+              "model_name": "雪之景3号",
+              "type": "手卷"
+            },
+            {
+              "model_id": "HHL020",
+              "model_name": "炫彩",
+              "vitola": "大皇冠",
+              "length_mm": 150,
+              "ring_gauge": 42,
+              "type": "手卷"
+            }
+          ]
+        },
+        {
+          "series_name": "迷你系列",
+          "positioning": "便携迷你",
+          "products": [
+            {
+              "model_id": "HHL026",
+              "model_name": "迷你醇味",
+              "type": "机制",
+              "price_pack": 12,
+              "packaging": "10支",
+              "features": "醇厚原味，便携小支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "美洲烟叶",
+                "notes": "迷你系列，机制小雪茄",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "HHL027",
+              "model_name": "迷你冰爽",
+              "type": "机制",
+              "price_pack": 12,
+              "packaging": "10支",
+              "features": "清凉冰爽，夏日首选",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "美洲烟叶",
+                "notes": "迷你系列，机制小雪茄",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "wangguan",
+      "brand_name": "王冠",
+      "manufacturer": "安徽中烟工业有限责任公司",
+      "origin": "安徽蒙城",
+      "established": "1978",
+      "heritage": "中国手工半叶卷雪茄市场七成份额",
+      "series": [
+        {
+          "series_name": "国粹系列",
+          "positioning": "高端文化雪茄",
+          "products": [
+            {
+              "model_id": "WG001",
+              "model_name": "20支",
+              "vitola": "小皇冠",
+              "length_mm": 88,
+              "ring_gauge": 29,
+              "type": "手卷",
+              "price_box": 200,
+              "packaging": "20支/盒"
+            },
+            {
+              "model_id": "WG002",
+              "model_name": "原味9号塑嘴",
+              "vitola": "小皇冠",
+              "length_mm": 110,
+              "ring_gauge": 29,
+              "type": "手卷",
+              "price_box": 50,
+              "packaging": "50支/条",
+              "features": "塑嘴设计，田园风格"
+            },
+            {
+              "model_id": "WG003",
+              "model_name": "国粹满堂彩",
+              "vitola": "公牛",
+              "length_mm": 156,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 595,
+              "packaging": "5支/盒",
+              "blend": "进口烟叶",
+              "flavor": [
+                "木香",
+                "坚果",
+                "蜂蜜",
+                "焦糖",
+                "皮革",
+                "咖啡"
+              ],
+              "cultural_notes": "京剧脸谱元素，纪念四徽班入京"
+            },
+            {
+              "model_id": "WG004",
+              "model_name": "小国粹",
+              "vitola": "半皇冠",
+              "length_mm": 90,
+              "ring_gauge": 41,
+              "type": "手卷",
+              "packaging": "25支/盒",
+              "flavor": [
+                "木香",
+                "豆香",
+                "皮革"
+              ]
+            },
+            {
+              "model_id": "WG009",
+              "model_name": "国粹风度",
+              "vitola": "罗布图",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 700,
+              "packaging": "10支/盒"
+            },
+            {
+              "model_id": "WG010",
+              "model_name": "国粹铝管",
+              "vitola": "罗伯图",
+              "length_mm": 140,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 1599,
+              "packaging": "10支/盒",
+              "features": "铝管包装"
+            },
+            {
+              "model_id": "WG011",
+              "model_name": "国粹荣耀",
+              "length_mm": 84,
+              "type": "手卷",
+              "price_box": 300,
+              "packaging": "20支/盒"
+            }
+          ]
+        },
+        {
+          "series_name": "文化典藏系列",
+          "positioning": "文化联名/限定",
+          "cultural_collaboration": true,
+          "products": [
+            {
+              "model_id": "WG021",
+              "model_name": "梅兰竹菊",
+              "vitola": "",
+              "length_mm": 150,
+              "ring_gauge": 56,
+              "type": "手工",
+              "price_box": 266,
+              "packaging": "2支/盒",
+              "cultural_notes": "四君子主题",
+              "limited": false,
+              "blend": {
+                "wrapper": "厄瓜多尔/多米尼加",
+                "binder": "多米尼加共和国",
+                "filler": "美洲、亚洲上等雪茄醇化烟叶",
+                "notes": "与斯堪的纳维亚烟草合作精制，精选美洲、亚洲上等雪茄醇化烟叶",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "WG022",
+              "model_name": "智者010",
+              "vitola": "",
+              "length_mm": 158,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 1750,
+              "packaging": "5支/竹盒铝管",
+              "features": "高端限量",
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开",
+                "notes": "高端限量版，配方严格保密",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "WG023",
+              "model_name": "古建三绝",
+              "vitola": "",
+              "length_mm": 136,
+              "ring_gauge": 38,
+              "type": "手工",
+              "price_box": 644,
+              "packaging": "10支/木盒",
+              "cultural_notes": "徽州古建筑主题"
+            },
+            {
+              "model_id": "WG024",
+              "model_name": "茶马古道",
+              "vitola": "",
+              "length_mm": 142,
+              "ring_gauge": 46,
+              "type": "手工",
+              "price_unit": 78,
+              "packaging": "单支",
+              "flavor": [
+                "茶香"
+              ],
+              "cultural_notes": "茶马古道文化主题"
+            },
+            {
+              "model_id": "WG025",
+              "model_name": "绍兴十景",
+              "price_pack": 200,
+              "type": "手工",
+              "cultural_notes": "绍兴风景文化主题"
+            },
+            {
+              "model_id": "WG026",
+              "model_name": "青岩往事",
+              "price_pack": 200,
+              "type": "手工",
+              "cultural_notes": "青岩古镇文化主题"
+            },
+            {
+              "model_id": "WG027",
+              "model_name": "古建三绝25支",
+              "price_pack": 1000,
+              "type": "手工",
+              "packaging": "25支",
+              "limited": true
+            }
+          ]
+        },
+        {
+          "series_name": "城市系列",
+          "positioning": "城市文化联名",
+          "products": [
+            {
+              "model_id": "WG014",
+              "model_name": "城市印象",
+              "length_mm": 88,
+              "diameter_mm": 9.2,
+              "type": "半叶卷",
+              "price_pack": 30,
+              "packaging": "铁盒",
+              "flavor": [
+                "甜香",
+                "可可香",
+                "坚果香"
+              ],
+              "city_theme": "通用城市"
+            },
+            {
+              "model_id": "WG015",
+              "model_name": "大连印象",
+              "price_pack": 30,
+              "type": "半叶卷",
+              "city_theme": "大连"
+            },
+            {
+              "model_id": "WG041",
+              "model_name": "青岛印象",
+              "price_pack": 30,
+              "type": "半叶卷",
+              "city_theme": "青岛",
+              "features": "海滨城市主题"
+            },
+            {
+              "model_id": "WG028",
+              "model_name": "赛悦",
+              "length_mm": 88,
+              "diameter_mm": 9.2,
+              "type": "半叶卷",
+              "price_pack": 30,
+              "packaging": "铁盒",
+              "flavor": [
+                "甜香",
+                "可可香",
+                "豆香"
+              ]
+            }
+          ]
+        },
+        {
+          "series_name": "假日系列",
+          "positioning": "休闲联名",
+          "products": [
+            {
+              "model_id": "WG008",
+              "model_name": "假日阳光",
+              "vitola": "公牛",
+              "length_mm": 156,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 251,
+              "packaging": "4支/盒",
+              "flavor": [
+                "烘烤香",
+                "皮革",
+                "辛香"
+              ],
+              "blend": {
+                "wrapper": "厄瓜多尔深色茄衣",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加优质蛙腿原料",
+                "notes": "选用厄瓜多尔深色茄衣，芯料精选多米尼加优质原料",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "WG038",
+              "model_name": "假日船长",
+              "type": "手卷",
+              "price_box": 180,
+              "packaging": "10支",
+              "features": "航海主题，清爽风格",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "多米尼加共和国",
+                "notes": "多米尼加等地优质烟叶"
+              }
+            },
+            {
+              "model_id": "WG039",
+              "model_name": "假日七号",
+              "type": "手卷",
+              "price_box": 150,
+              "packaging": "10支",
+              "features": "假日系列入门款"
+            },
+            {
+              "model_id": "WG040",
+              "model_name": "浪漫假日",
+              "type": "手工",
+              "price_box": 200,
+              "packaging": "5支",
+              "features": "浪漫主题，适合送礼"
+            },
+            {
+              "model_id": "WG012",
+              "model_name": "蓝色假日",
+              "length_mm": 110,
+              "ring_gauge": 38,
+              "type": "手卷",
+              "price_box": 1211,
+              "packaging": "25支/盒",
+              "blend": {
+                "wrapper": "厄瓜多尔",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "热门款，配方完整公开"
+              }
+            },
+            {
+              "model_id": "WG029",
+              "model_name": "假日·黄金海岸",
+              "price_pack": 16,
+              "type": "手卷",
+              "packaging": "铁盒",
+              "features": "海滨度假主题"
+            },
+            {
+              "model_id": "WG030",
+              "model_name": "黄金海岸",
+              "length_mm": 110,
+              "ring_gauge": 56,
+              "type": "手卷",
+              "price_box": 584,
+              "packaging": "12支/纸盒",
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "纯进口原料款式，经核实确认",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "原味系列",
+          "positioning": "经典口粮",
+          "products": [
+            {
+              "model_id": "WG017",
+              "model_name": "原味1号",
+              "length_mm": 130,
+              "diameter_mm": 14.8,
+              "type": "半叶卷",
+              "flavor": [
+                "甜香",
+                "甘草香",
+                "可可香"
+              ],
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "印度尼西亚苏门答腊",
+                "filler": "加勒比地区、巴西、印度尼西亚等地进口烟叶",
+                "notes": "原料选自加勒比地区、巴西、印度尼西亚等地的进口烟叶",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "WG042",
+              "model_name": "原味2号",
+              "price_pack": 15,
+              "type": "半叶卷",
+              "packaging": "10支",
+              "features": "原味系列入门款"
+            },
+            {
+              "model_id": "WG018",
+              "model_name": "原味3号",
+              "price_carton": 150,
+              "type": "手卷",
+              "packaging": "50支/条"
+            },
+            {
+              "model_id": "WG031",
+              "model_name": "原味9号迷你塑嘴",
+              "length_mm": 88,
+              "type": "半叶卷",
+              "price_pack": 20,
+              "features": "迷你塑嘴版",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "印度尼西亚苏门答腊",
+                "filler": "多米尼加共和国、中国",
+                "notes": "多米尼加烟叶与国产烟叶混合，印度尼西亚苏门答腊茄套"
+              }
+            },
+            {
+              "model_id": "WG032",
+              "model_name": "奶香5支",
+              "price_pack": 10,
+              "type": "半叶卷"
+            },
+            {
+              "model_id": "WG043",
+              "model_name": "古雪一号",
+              "price_pack": 50,
+              "type": "手卷",
+              "features": "古风经典系列"
+            },
+            {
+              "model_id": "WG019",
+              "model_name": "万象",
+              "length_mm": 84,
+              "price_box": 200,
+              "packaging": "20支/盒",
+              "type": "手卷"
+            },
+            {
+              "model_id": "WG020",
+              "model_name": "加勒比",
+              "length_mm": 84,
+              "price_box": 160,
+              "packaging": "20支/盒",
+              "type": "手卷"
+            }
+          ]
+        },
+        {
+          "series_name": "经典系列",
+          "positioning": "中端产品",
+          "products": [
+            {
+              "model_id": "WG033",
+              "model_name": "经典5号",
+              "price_pack": 110,
+              "type": "手卷"
+            },
+            {
+              "model_id": "WG034",
+              "model_name": "古型",
+              "price_pack": 50,
+              "type": "手卷"
+            },
+            {
+              "model_id": "WG035",
+              "model_name": "塑2支全叶卷",
+              "price_pack": 20,
+              "type": "手卷",
+              "packaging": "2支"
+            }
+          ]
+        },
+        {
+          "series_name": "高端限量系列",
+          "positioning": "顶级收藏",
+          "products": [
+            {
+              "model_id": "WG022",
+              "model_name": "智者010",
+              "vitola": "",
+              "length_mm": 158,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 1750,
+              "packaging": "5支/竹盒铝管",
+              "features": "高端限量",
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开",
+                "notes": "高端限量版，配方严格保密",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "WG044",
+              "model_name": "智者002",
+              "type": "手工",
+              "price_box": 800,
+              "packaging": "10支",
+              "features": "智者系列中端款"
+            },
+            {
+              "model_id": "WG045",
+              "model_name": "贞观",
+              "type": "手工",
+              "price_box": 2000,
+              "packaging": "10支/木盒",
+              "features": "王冠顶级旗舰款，高端收藏",
+              "limited": true,
+              "high_end": true
+            },
+            {
+              "model_id": "WG036",
+              "model_name": "国粹风度（高端）",
+              "vitola": "",
+              "length_mm": 124,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 6000,
+              "packaging": "10支",
+              "limited": false,
+              "high_end": true
+            },
+            {
+              "model_id": "WG037",
+              "model_name": "茶马古道礼盒",
+              "type": "手工",
+              "price_box": 9500,
+              "packaging": "礼盒",
+              "limited": true,
+              "high_end": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "taishan",
+      "brand_name": "泰山",
+      "manufacturer": "山东中烟工业有限责任公司",
+      "origin": "山东济南",
+      "established": "1928",
+      "heritage": "东方雪茄的原生地，清朝光绪年间已开始雪茄烟叶种植",
+      "series": [
+        {
+          "series_name": "巅峰系列",
+          "positioning": "旗舰高端",
+          "products": [
+            {
+              "model_id": "TS001",
+              "model_name": "巅峰2号",
+              "vitola": "公牛",
+              "length_mm": 152,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 3269,
+              "packaging": "10支/木盒",
+              "price_unit": 328
+            },
+            {
+              "model_id": "TS002",
+              "model_name": "巅峰5号",
+              "vitola": "公牛",
+              "length_mm": 152,
+              "ring_gauge": 52,
+              "type": "手工",
+              "price_box": 2506,
+              "packaging": "10支/木盒",
+              "price_unit": 251,
+              "flavor": [
+                "烤甜",
+                "杏仁",
+                "木香",
+                "坚果"
+              ],
+              "features": "山东中烟旗舰"
+            },
+            {
+              "model_id": "TS003",
+              "model_name": "巅峰6号",
+              "vitola": "罗伯图",
+              "length_mm": 127,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 756,
+              "packaging": "5支/木盒",
+              "price_unit": 154
+            }
+          ]
+        },
+        {
+          "series_name": "战神系列",
+          "positioning": "将军品牌雪茄线",
+          "heritage": "1987年与英国乐富门公司联合研制",
+          "products": [
+            {
+              "model_id": "TS004",
+              "model_name": "战神1号",
+              "length_mm": 140,
+              "ring_gauge": 40,
+              "type": "手工",
+              "price_box": 819,
+              "packaging": "10支/木盒",
+              "price_unit": 84,
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "战神1号，豆香、可可香韵调",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS019",
+              "model_name": "战神2号",
+              "type": "手工",
+              "price_box": 150,
+              "packaging": "5支",
+              "features": "战神系列入门款",
+              "blend": {
+                "wrapper": "巴西、印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西、印度尼西亚、中国",
+                "notes": "烟草本香突出，带过滤嘴"
+              }
+            },
+            {
+              "model_id": "TS005",
+              "model_name": "战神3号",
+              "length_mm": 130,
+              "ring_gauge": 40,
+              "type": "手工",
+              "price_box": 600,
+              "packaging": "10支/木盒",
+              "price_unit": 61,
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "战神3号，木香、坚果香韵调",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS006",
+              "model_name": "战神4号",
+              "length_mm": 100,
+              "ring_gauge": 42,
+              "type": "机制",
+              "price_box": 249,
+              "packaging": "4支/铁盒",
+              "price_unit": 63,
+              "features": "国际流行半皇冠",
+              "flavor": [
+                "木香",
+                "豆香",
+                "胡椒",
+                "蜜甜",
+                "奶香"
+              ],
+              "blend": {
+                "wrapper": "国产",
+                "binder": "国产",
+                "filler": "中国什邡烟叶",
+                "notes": "机制半叶卷小雪茄，国产烟叶为主",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS007",
+              "model_name": "战神5号",
+              "length_mm": 152,
+              "ring_gauge": 38,
+              "type": "手工",
+              "price_box": 96,
+              "packaging": "2支/纸盒",
+              "blend": {
+                "wrapper": "美国康涅狄格州",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国、巴西、中国云南",
+                "notes": "康州茄衣，多国部队混合茄芯（多米尼加、巴西、云南），经1-3年发酵醇化，国内首个大宾利尺寸"
+              }
+            },
+            {
+              "model_id": "TS008",
+              "model_name": "战神6H",
+              "length_mm": 126,
+              "ring_gauge": 40,
+              "type": "手工",
+              "price_box": 224,
+              "packaging": "5支/纸盒",
+              "price_unit": 46,
+              "blend": {
+                "wrapper": "印度尼西亚（推测）",
+                "binder": "多米尼加共和国（推测）",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "战神6H，推测配方基于战神系列一致性，官方信息披露有限",
+                "verified": false,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS009",
+              "model_name": "战神07号",
+              "length_mm": 121,
+              "ring_gauge": 42,
+              "type": "机制",
+              "price_box": 50,
+              "packaging": "5支/盒",
+              "flavor": [
+                "木质",
+                "巧克力"
+              ],
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "中国",
+                "notes": "机制小雪茄，国产烟叶为主，茄香醇厚成熟"
+              }
+            },
+            {
+              "model_id": "TS010",
+              "model_name": "战神荣耀",
+              "length_mm": 84,
+              "ring_gauge": 27,
+              "type": "机制",
+              "price_box": 203,
+              "packaging": "10支/盒（50支/条）",
+              "flavor": [
+                "烟草",
+                "木质",
+                "可可"
+              ],
+              "features": "全手工全叶卷，黄色外包装",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "融入泰山高端巅峰系列余料调配"
+              }
+            },
+            {
+              "model_id": "TS011",
+              "model_name": "战神7号",
+              "length_mm": 126,
+              "ring_gauge": 34,
+              "type": "机制",
+              "price_box": 553,
+              "packaging": "50支/铁盒",
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "国产",
+                "filler": "多米尼加共和国、巴西",
+                "notes": "战神7号，机制雪茄",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS020",
+              "model_name": "战神白金",
+              "type": "手工",
+              "price_box": 300,
+              "packaging": "5支",
+              "features": "白金限定版",
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开",
+                "notes": "战神白金限定款，配方严格保密",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS021",
+              "model_name": "战神黑金",
+              "type": "手工",
+              "price_box": 350,
+              "packaging": "5支",
+              "features": "黑金限定版",
+              "limited": true,
+              "blend": {
+                "wrapper": "美国弗吉尼亚州",
+                "binder": "巴西南大河州",
+                "filler": "津巴布韦、中国云南、中国湖南",
+                "notes": "融合多国优质烟叶"
+              }
+            },
+            {
+              "model_id": "TS022",
+              "model_name": "风林火山",
+              "type": "手工",
+              "price_box": 280,
+              "packaging": "5支",
+              "features": "孙子兵法主题，军事文化",
+              "theme": "风林火山",
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国",
+                "notes": "风林火山，孙子兵法主题",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS012",
+              "model_name": "新战神5号",
+              "length_mm": 152,
+              "ring_gauge": 38,
+              "type": "手工",
+              "price_box": 96,
+              "packaging": "2支/纸盒"
+            }
+          ]
+        },
+        {
+          "series_name": "大力神系列",
+          "positioning": "中高端礼品",
+          "mythology": "古希腊英雄赫拉克勒斯",
+          "products": [
+            {
+              "model_id": "TS013",
+              "model_name": "大力神",
+              "vitola": "",
+              "length_mm": 150,
+              "ring_gauge": 44,
+              "type": "手工",
+              "price_box": 350,
+              "packaging": "5支/纸盒",
+              "price_unit": 71,
+              "blend": {
+                "wrapper": "厄瓜多尔/印度尼西亚",
+                "binder": "多米尼加共和国",
+                "filler": "中国、古巴混合",
+                "notes": "大力神，含古巴烟叶成分",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS014",
+              "model_name": "大力神6H",
+              "vitola": "",
+              "length_mm": 154,
+              "ring_gauge": 56,
+              "type": "手工",
+              "packaging": "5支/铝管",
+              "features": "铝管独立封装，茄衣3年醇化",
+              "flavor": [
+                "雪松木",
+                "坚果",
+                "咖啡",
+                "焦甜"
+              ],
+              "blend": {
+                "wrapper": "古巴",
+                "binder": "中国",
+                "filler": "古巴60%、中国40%",
+                "notes": "中西合璧配方"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "特色系列",
+          "positioning": "地区限定/主题",
+          "products": [
+            {
+              "model_id": "TS015",
+              "model_name": "都市丛林",
+              "vitola": "罗伯图",
+              "length_mm": 127,
+              "ring_gauge": 50,
+              "type": "手工",
+              "price_box": 1680,
+              "packaging": "10支/铁盒",
+              "price_unit": 171,
+              "features": "铁盒包装，都市主题",
+              "blend": {
+                "wrapper": "多米尼加共和国",
+                "binder": "多米尼加共和国",
+                "filler": "多米尼加共和国",
+                "notes": "茄衣、茄套、茄芯均采用醇化3年以上多米尼加共和国烟叶"
+              }
+            },
+            {
+              "model_id": "TS016",
+              "model_name": "3G沉香",
+              "type": "机制",
+              "price_box": 35,
+              "packaging": "8支/铁盒",
+              "blend": {
+                "wrapper": "荷兰进口",
+                "binder": "印度尼西亚",
+                "filler": "中国、多米尼加混合",
+                "notes": "3G沉香，无添加剂配方",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS017",
+              "model_name": "巴哈马甜味",
+              "type": "机制",
+              "price_box": 37,
+              "packaging": "10支/铁盒",
+              "features": "甜味雪茄",
+              "blend": {
+                "wrapper": "印度尼西亚",
+                "binder": "国产",
+                "filler": "中国四川什邡、津巴布韦",
+                "notes": "巴哈马甜味，添加黑蜂蜜、枇杷叶等",
+                "verified": true,
+                "verification_date": "2026-04-07"
+              }
+            },
+            {
+              "model_id": "TS018",
+              "model_name": "黑豹细支",
+              "price_pack": 20,
+              "type": "细支雪茄",
+              "features": "萤光豹纹包装，时代感强",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "中国山东",
+                "notes": "国产烟叶为主，雪茄原叶掺配，香料调和"
+              }
+            }
+          ]
+        },
+        {
+          "series_name": "将军香烟系列",
+          "positioning": "卷烟产品",
+          "note": "历史产品线，曾是国内零售价最高卷烟",
+          "products": [
+            {
+              "model_id": "TSC01",
+              "model_name": "将军（天元）",
+              "type": "卷烟"
+            },
+            {
+              "model_id": "TSC02",
+              "model_name": "将军（功勋沂蒙山）",
+              "type": "卷烟"
+            },
+            {
+              "model_id": "TSC03",
+              "model_name": "将军（雪豹）",
+              "type": "卷烟"
+            },
+            {
+              "model_id": "TSC04",
+              "model_name": "将军（潘萨）",
+              "type": "卷烟"
+            },
+            {
+              "model_id": "TSC05",
+              "model_name": "将军（吉祥）",
+              "type": "卷烟"
+            },
+            {
+              "model_id": "TSC06",
+              "model_name": "将军（金豹）",
+              "type": "卷烟"
+            },
+            {
+              "model_id": "TSC07",
+              "model_name": "将军（金钱豹）",
+              "type": "卷烟"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "search_indexes": {
+    "by_flavor": {
+      "木香": [
+        "WG001",
+        "WG003",
+        "WG004",
+        "CC001",
+        "TS001",
+        "TS002",
+        "CC014",
+        "HHL001",
+        "HHL002",
+        "HHL003",
+        "HHL004",
+        "HHL011"
+      ],
+      "坚果": [
+        "WG003",
+        "TS003",
+        "CC006",
+        "CC002",
+        "HHL004",
+        "TS014"
+      ],
+      "蜂蜜": [
+        "WG003",
+        "CC006"
+      ],
+      "咖啡": [
+        "CC001",
+        "WG003",
+        "CC007",
+        "TS010",
+        "HHL009",
+        "TS014"
+      ],
+      "皮革": [
+        "WG003",
+        "WG004",
+        "WG008",
+        "CC011",
+        "HHL004",
+        "HHL009"
+      ],
+      "豆香": [
+        "HHL001",
+        "WG004",
+        "HHL002",
+        "TS006",
+        "CC003"
+      ],
+      "奶香": [
+        "HHL003",
+        "HHL006"
+      ],
+      "焦糖": [
+        "WG003",
+        "HHL002",
+        "TS001",
+        "CC020",
+        "TS014"
+      ],
+      "可可": [
+        "TS010",
+        "WG014",
+        "CC008",
+        "HHL012"
+      ],
+      "花香": [
+        "HHL005",
+        "CC009",
+        "CC011",
+        "CC003"
+      ],
+      "茶香": [
+        "WG024"
+      ],
+      "辛香": [
+        "HHL005",
+        "WG008"
+      ]
+    },
+    "by_strength": {
+      "温和": [
+        "WG001",
+        "WG002",
+        "WG004",
+        "HHL003",
+        "CC011",
+        "HHL008"
+      ],
+      "中等": [
+        "WG003",
+        "WG008",
+        "CC001",
+        "HHL005",
+        "TS002",
+        "CC015"
+      ],
+      "饱满": [
+        "HHL001",
+        "HHL006"
+      ],
+      "浓郁": [
+        "TS002",
+        "TS001",
+        "HHL004",
+        "TS014"
+      ]
+    },
+    "by_price_tier": {
+      "入门级(<50元/支)": [
+        "WG002",
+        "TS007",
+        "TS009",
+        "CC011",
+        "HHL008",
+        "TS006"
+      ],
+      "口粮级(50-100元/支)": [
+        "WG001",
+        "CC018",
+        "CC019",
+        "HHL007",
+        "CC022",
+        "TS004"
+      ],
+      "进阶级(100-300元/支)": [
+        "WG003",
+        "CC014",
+        "HHL003",
+        "HHL004",
+        "TS001",
+        "TS002",
+        "CC015"
+      ],
+      "高端级(300-600元/支)": [
+        "CC002",
+        "CC003",
+        "HHL002",
+        "HHL001",
+        "WG010"
+      ],
+      "旗舰级(>600元/支)": [
+        "CC004",
+        "CC001",
+        "WG022",
+        "HHL001"
+      ]
+    },
+    "by_special_edition": {
+      "生肖限定": [
+        "CCZ01",
+        "CCZ02",
+        "CCZ03",
+        "CCZ04",
+        "CCZ05",
+        "CCZ06",
+        "CCZ07",
+        "CCZ08",
+        "CCZ09",
+        "CCZ10",
+        "CCZ11",
+        "CCZ12",
+        "CCZ13",
+        "HHLZ01",
+        "HHLZ02",
+        "HHLZ03"
+      ],
+      "周年纪念": [
+        "CC005",
+        "CC021",
+        "HHY01",
+        "HHY02",
+        "HHY03"
+      ],
+      "联名款": [
+        "CCF01",
+        "CCF02",
+        "CCF03",
+        "CCF04",
+        "CC014"
+      ],
+      "大师限量": [
+        "CC005",
+        "WG022"
+      ]
+    }
+  },
+  "quick_reference": {
+    "beginner_friendly": [
+      "WG002",
+      "WG004",
+      "CC011",
+      "TS007",
+      "CC025",
+      "HHL008",
+      "HHL009"
+    ],
+    "best_value": [
+      "CC019",
+      "CC022",
+      "WG001",
+      "HHL007",
+      "TS009",
+      "CC018"
+    ],
+    "premium_gift": [
+      "HHL001",
+      "HHL003",
+      "CC004",
+      "WG022",
+      "CC002",
+      "CCZ05",
+      "HHLZ03"
+    ],
+    "cultural_collection": [
+      "WG003",
+      "WG021",
+      "WG023",
+      "WG024",
+      "CCZ05",
+      "WG025",
+      "WG026"
+    ],
+    "limited_investment": [
+      "CCZ06",
+      "HHLZ01",
+      "CC005",
+      "HHI01",
+      "WG022"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# 数据库和历史记录
+*.db
+*.sqlite
+history/*.json
+
+# 上传的图片
+static/uploads/*
+!static/uploads/.gitkeep
+
+# 环境变量
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Railway
+.railway/

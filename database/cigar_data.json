@@ -172,7 +172,12 @@
               "price_box": 1652,
               "packaging": "10支/木盒",
               "features": "榫卯工艺，电雕工艺",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ02",
@@ -185,7 +190,12 @@
               "price_box": 1652,
               "packaging": "10支/木盒",
               "features": "大师团队打造，3年以上养护",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ03",
@@ -198,7 +208,12 @@
               "price_box": 1652,
               "packaging": "10支/木盒",
               "features": "浩月长春及九级大师团队",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ04",
@@ -212,7 +227,12 @@
               "packaging": "10支/木盒",
               "price_unit": 235,
               "features": "兔年生肖主题，限量发行",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ05",
@@ -233,7 +253,12 @@
                 "豆香",
                 "肉桂"
               ],
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ06",
@@ -244,7 +269,12 @@
               "features": "全球限量2000盒，5支龙年+5支鸡年，龙凤呈祥",
               "limited": true,
               "limited_quantity": 2000,
-              "special": "激光编码，金色生肖脚标"
+              "special": "激光编码，金色生肖脚标",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ07",
@@ -255,7 +285,12 @@
               "price_box": 1600,
               "packaging": "10支/木盒",
               "features": "蛇年生肖主题",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ08",
@@ -264,7 +299,12 @@
               "type": "手工",
               "price_box": 1600,
               "packaging": "10支/木盒",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ09",
@@ -273,7 +313,12 @@
               "type": "手工",
               "price_box": 1600,
               "packaging": "10支/木盒",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ10",
@@ -282,7 +327,12 @@
               "type": "手工",
               "price_box": 1600,
               "packaging": "10支/木盒",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ11",
@@ -291,7 +341,12 @@
               "type": "手工",
               "price_box": 1600,
               "packaging": "10支/木盒",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ12",
@@ -300,7 +355,12 @@
               "type": "手工",
               "price_box": 1600,
               "packaging": "10支/木盒",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCZ13",
@@ -309,7 +369,12 @@
               "type": "手工",
               "price_box": 1600,
               "packaging": "10支/木盒",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -325,7 +390,12 @@
               "type": "手工",
               "price_box": 2600,
               "packaging": "25支/木盒",
-              "features": "大师级卷制，高端典藏"
+              "features": "大师级卷制，高端典藏",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCD01",
@@ -335,7 +405,12 @@
               "type": "手工",
               "price_box": 2300,
               "packaging": "25支/木盒",
-              "features": "大师级卷制，高端典藏"
+              "features": "大师级卷制，高端典藏",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCD02",
@@ -345,7 +420,12 @@
               "type": "手工",
               "price_box": 2250,
               "packaging": "25支/木盒",
-              "features": "燃烧时间约60分钟/支"
+              "features": "燃烧时间约60分钟/支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCD03",
@@ -353,7 +433,12 @@
               "length_mm": 110,
               "type": "手工",
               "price_box": 1400,
-              "packaging": "25支/木盒"
+              "packaging": "25支/木盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -465,7 +550,12 @@
             {
               "model_id": "CC010",
               "model_name": "传奇3号",
-              "type": "手工"
+              "type": "手工",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC011",
@@ -533,21 +623,36 @@
               "model_name": "迷你咖啡",
               "type": "机制",
               "price_pack": 25,
-              "features": "咖啡风味，便携小支"
+              "features": "咖啡风味，便携小支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCM02",
               "model_name": "迷你原味",
               "type": "机制",
               "price_pack": 25,
-              "features": "原味经典，入门首选"
+              "features": "原味经典，入门首选",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCM03",
               "model_name": "迷你国际香草",
               "type": "机制",
               "price_pack": 25,
-              "features": "香草风味，女士友好"
+              "features": "香草风味，女士友好",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -605,7 +710,12 @@
               "model_name": "揽胜1号经典",
               "type": "手工",
               "price_box": 1600,
-              "packaging": "10支"
+              "packaging": "10支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC017",
@@ -614,7 +724,12 @@
               "type": "手工",
               "price_box": 1200,
               "packaging": "10支/木盒",
-              "features": "揽胜系列中端款，介于1号与3号之间"
+              "features": "揽胜系列中端款，介于1号与3号之间",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -676,7 +791,12 @@
               "type": "手工",
               "limited": true,
               "limited_quantity": 137,
-              "features": "第1盒赠中国雪茄博物馆，雪茄客®珍藏第137盒"
+              "features": "第1盒赠中国雪茄博物馆，雪茄客®珍藏第137盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -687,7 +807,12 @@
             {
               "model_id": "CC017",
               "model_name": "盛世2号",
-              "type": "手工"
+              "type": "手工",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC018",
@@ -785,7 +910,12 @@
               "type": "手工",
               "price_box": 333,
               "packaging": "5支/纸盒",
-              "price_unit": 67
+              "price_unit": 67,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC024",
@@ -796,14 +926,24 @@
               "type": "手工",
               "price_box": 500,
               "packaging": "5支/纸盒",
-              "price_unit": 100
+              "price_unit": 100,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC025",
               "model_name": "新经典3号",
               "type": "手工",
               "price_box": 570,
-              "packaging": "10支"
+              "packaging": "10支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC026",
@@ -813,7 +953,12 @@
               "ring_gauge": 35,
               "type": "机制",
               "price_box": 672,
-              "packaging": "20支/纸盒"
+              "packaging": "20支/纸盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CC027",
@@ -823,7 +968,12 @@
               "ring_gauge": 40,
               "type": "手工",
               "price_unit": 62,
-              "features": "铝管包装"
+              "features": "铝管包装",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -836,7 +986,12 @@
               "model_name": "骑士1号",
               "type": "手工",
               "price_box": 380,
-              "packaging": "20支"
+              "packaging": "20支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCK04",
@@ -844,21 +999,36 @@
               "type": "手工",
               "price_box": 400,
               "packaging": "20支",
-              "features": "骑士系列中端款"
+              "features": "骑士系列中端款",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCK02",
               "model_name": "骑士3号",
               "type": "手工",
               "price_box": 318,
-              "packaging": "5支/铝管"
+              "packaging": "5支/铝管",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCK03",
               "model_name": "铝管2号",
               "type": "手工",
               "price_box": 100,
-              "packaging": "2支"
+              "packaging": "2支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "CCK05",
@@ -866,7 +1036,12 @@
               "type": "手工",
               "price_box": 450,
               "packaging": "5支/铝管",
-              "features": "铝管包装，便携保鲜"
+              "features": "铝管包装，便携保鲜",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         }
@@ -894,7 +1069,12 @@
               "price_box": 4200,
               "packaging": "10支/铝盒",
               "price_unit": 420,
-              "features": "中国超高端雪茄销量第一"
+              "features": "中国超高端雪茄销量第一",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL002",
@@ -1120,14 +1300,24 @@
               "model_name": "1916国际版丘吉尔",
               "type": "手工",
               "limited": true,
-              "limited_quantity": 500
+              "limited_quantity": 500,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHI03",
               "model_name": "1916国际版鱼雷",
               "type": "手工",
               "limited": true,
-              "limited_quantity": 500
+              "limited_quantity": 500,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1143,7 +1333,12 @@
               "limited": true,
               "limited_quantity": 3000,
               "features": "温感变色茄标，Churchill规格，6年窖藏烟叶",
-              "market_price": "流通价突破2800元/盒"
+              "market_price": "流通价突破2800元/盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHLZ02",
@@ -1153,7 +1348,12 @@
               "limited": true,
               "limited_quantity": 1000,
               "features": "醇化三年以上顶级进口烟叶",
-              "packaging": "套装"
+              "packaging": "套装",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHLZ03",
@@ -1162,7 +1362,12 @@
               "type": "手工",
               "limited": true,
               "features": "传统古巴发酵工艺，高级卷制大师手工",
-              "packaging": "礼盒"
+              "packaging": "礼盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1177,14 +1382,24 @@
               "type": "烤烟",
               "price_pack": 100,
               "features": "纪念孙中山先生领导辛亥革命胜利100周年",
-              "packaging": "红色包装，金色过滤嘴"
+              "packaging": "红色包装，金色过滤嘴",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHY02",
               "model_name": "1916 15周年珍藏版",
               "type": "手工",
               "features": "15周年纪念",
-              "price_box": 1500
+              "price_box": 1500,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHY03",
@@ -1192,7 +1407,12 @@
               "type": "手工",
               "market_price": "10000元/条",
               "features": "特供烟，纪念辛亥革命",
-              "positioning": "中国最贵香烟之一"
+              "positioning": "中国最贵香烟之一",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1316,7 +1536,12 @@
               "flavor": [
                 "巧克力"
               ],
-              "features": "日常口粮"
+              "features": "日常口粮",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL024",
@@ -1342,7 +1567,12 @@
               "type": "机制",
               "price_box": 910,
               "packaging": "100支/盒",
-              "features": "迷你雪茄，侧开盒型"
+              "features": "迷你雪茄，侧开盒型",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL025",
@@ -1370,22 +1600,42 @@
               "model_id": "HHL016",
               "model_name": "雪之景",
               "type": "手卷",
-              "price_range": "150-300元/条"
+              "price_range": "150-300元/条",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL017",
               "model_name": "雪之景1号",
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL018",
               "model_name": "雪之景2号",
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL019",
               "model_name": "雪之景3号",
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "HHL020",
@@ -1393,7 +1643,12 @@
               "vitola": "大皇冠",
               "length_mm": 150,
               "ring_gauge": 42,
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1457,7 +1712,12 @@
               "ring_gauge": 29,
               "type": "手卷",
               "price_box": 200,
-              "packaging": "20支/盒"
+              "packaging": "20支/盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG002",
@@ -1468,7 +1728,12 @@
               "type": "手卷",
               "price_box": 50,
               "packaging": "50支/条",
-              "features": "塑嘴设计，田园风格"
+              "features": "塑嘴设计，田园风格",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG003",
@@ -1479,7 +1744,12 @@
               "type": "手工",
               "price_box": 595,
               "packaging": "5支/盒",
-              "blend": "进口烟叶",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开",
+                "notes": "进口烟叶"
+              },
               "flavor": [
                 "木香",
                 "坚果",
@@ -1502,7 +1772,12 @@
                 "木香",
                 "豆香",
                 "皮革"
-              ]
+              ],
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG009",
@@ -1512,7 +1787,12 @@
               "ring_gauge": 50,
               "type": "手工",
               "price_box": 700,
-              "packaging": "10支/盒"
+              "packaging": "10支/盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG010",
@@ -1523,7 +1803,12 @@
               "type": "手工",
               "price_box": 1599,
               "packaging": "10支/盒",
-              "features": "铝管包装"
+              "features": "铝管包装",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG011",
@@ -1531,7 +1816,12 @@
               "length_mm": 84,
               "type": "手卷",
               "price_box": 300,
-              "packaging": "20支/盒"
+              "packaging": "20支/盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1589,7 +1879,12 @@
               "type": "手工",
               "price_box": 644,
               "packaging": "10支/木盒",
-              "cultural_notes": "徽州古建筑主题"
+              "cultural_notes": "徽州古建筑主题",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG024",
@@ -1603,21 +1898,36 @@
               "flavor": [
                 "茶香"
               ],
-              "cultural_notes": "茶马古道文化主题"
+              "cultural_notes": "茶马古道文化主题",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG025",
               "model_name": "绍兴十景",
               "price_pack": 200,
               "type": "手工",
-              "cultural_notes": "绍兴风景文化主题"
+              "cultural_notes": "绍兴风景文化主题",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG026",
               "model_name": "青岩往事",
               "price_pack": 200,
               "type": "手工",
-              "cultural_notes": "青岩古镇文化主题"
+              "cultural_notes": "青岩古镇文化主题",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG027",
@@ -1625,7 +1935,12 @@
               "price_pack": 1000,
               "type": "手工",
               "packaging": "25支",
-              "limited": true
+              "limited": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1646,14 +1961,24 @@
                 "可可香",
                 "坚果香"
               ],
-              "city_theme": "通用城市"
+              "city_theme": "通用城市",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG015",
               "model_name": "大连印象",
               "price_pack": 30,
               "type": "半叶卷",
-              "city_theme": "大连"
+              "city_theme": "大连",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG041",
@@ -1661,7 +1986,12 @@
               "price_pack": 30,
               "type": "半叶卷",
               "city_theme": "青岛",
-              "features": "海滨城市主题"
+              "features": "海滨城市主题",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG028",
@@ -1675,7 +2005,12 @@
                 "甜香",
                 "可可香",
                 "豆香"
-              ]
+              ],
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1726,7 +2061,12 @@
               "type": "手卷",
               "price_box": 150,
               "packaging": "10支",
-              "features": "假日系列入门款"
+              "features": "假日系列入门款",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG040",
@@ -1734,7 +2074,12 @@
               "type": "手工",
               "price_box": 200,
               "packaging": "5支",
-              "features": "浪漫主题，适合送礼"
+              "features": "浪漫主题，适合送礼",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG012",
@@ -1757,7 +2102,12 @@
               "price_pack": 16,
               "type": "手卷",
               "packaging": "铁盒",
-              "features": "海滨度假主题"
+              "features": "海滨度假主题",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG030",
@@ -1808,14 +2158,24 @@
               "price_pack": 15,
               "type": "半叶卷",
               "packaging": "10支",
-              "features": "原味系列入门款"
+              "features": "原味系列入门款",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG018",
               "model_name": "原味3号",
               "price_carton": 150,
               "type": "手卷",
-              "packaging": "50支/条"
+              "packaging": "50支/条",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG031",
@@ -1835,14 +2195,24 @@
               "model_id": "WG032",
               "model_name": "奶香5支",
               "price_pack": 10,
-              "type": "半叶卷"
+              "type": "半叶卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG043",
               "model_name": "古雪一号",
               "price_pack": 50,
               "type": "手卷",
-              "features": "古风经典系列"
+              "features": "古风经典系列",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG019",
@@ -1850,7 +2220,12 @@
               "length_mm": 84,
               "price_box": 200,
               "packaging": "20支/盒",
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG020",
@@ -1858,7 +2233,12 @@
               "length_mm": 84,
               "price_box": 160,
               "packaging": "20支/盒",
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1870,20 +2250,35 @@
               "model_id": "WG033",
               "model_name": "经典5号",
               "price_pack": 110,
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG034",
               "model_name": "古型",
               "price_pack": 50,
-              "type": "手卷"
+              "type": "手卷",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG035",
               "model_name": "塑2支全叶卷",
               "price_pack": 20,
               "type": "手卷",
-              "packaging": "2支"
+              "packaging": "2支",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -1917,7 +2312,12 @@
               "type": "手工",
               "price_box": 800,
               "packaging": "10支",
-              "features": "智者系列中端款"
+              "features": "智者系列中端款",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG045",
@@ -1927,7 +2327,12 @@
               "packaging": "10支/木盒",
               "features": "王冠顶级旗舰款，高端收藏",
               "limited": true,
-              "high_end": true
+              "high_end": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG036",
@@ -1939,7 +2344,12 @@
               "price_box": 6000,
               "packaging": "10支",
               "limited": false,
-              "high_end": true
+              "high_end": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "WG037",
@@ -1948,7 +2358,12 @@
               "price_box": 9500,
               "packaging": "礼盒",
               "limited": true,
-              "high_end": true
+              "high_end": true,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         }
@@ -1975,7 +2390,12 @@
               "type": "手工",
               "price_box": 3269,
               "packaging": "10支/木盒",
-              "price_unit": 328
+              "price_unit": 328,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TS002",
@@ -1993,7 +2413,12 @@
                 "木香",
                 "坚果"
               ],
-              "features": "山东中烟旗舰"
+              "features": "山东中烟旗舰",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TS003",
@@ -2004,7 +2429,12 @@
               "type": "手工",
               "price_box": 756,
               "packaging": "5支/木盒",
-              "price_unit": 154
+              "price_unit": 154,
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -2235,7 +2665,12 @@
               "ring_gauge": 38,
               "type": "手工",
               "price_box": 96,
-              "packaging": "2支/纸盒"
+              "packaging": "2支/纸盒",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         },
@@ -2363,37 +2798,72 @@
             {
               "model_id": "TSC01",
               "model_name": "将军（天元）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TSC02",
               "model_name": "将军（功勋沂蒙山）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TSC03",
               "model_name": "将军（雪豹）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TSC04",
               "model_name": "将军（潘萨）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TSC05",
               "model_name": "将军（吉祥）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TSC06",
               "model_name": "将军（金豹）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             },
             {
               "model_id": "TSC07",
               "model_name": "将军（金钱豹）",
-              "type": "卷烟"
+              "type": "卷烟",
+              "blend": {
+                "wrapper": "未公开",
+                "binder": "未公开",
+                "filler": "未公开"
+              }
             }
           ]
         }

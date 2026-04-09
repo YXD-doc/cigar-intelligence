@@ -62,6 +62,12 @@ class CigarDatabase:
                     series_name = series['series_name']
                     for product in series.get('products', []):
                         blend = product.get('blend', {})
+                        # 处理 blend 不是字典的情况
+                        if isinstance(blend, str):
+                            blend = {'notes': blend, 'wrapper': '未公开', 'binder': '未公开', 'filler': '未公开'}
+                        elif not isinstance(blend, dict):
+                            blend = {}
+                        
                         self.products.append(CigarProduct(
                             model_id=product.get('model_id', ''),
                             model_name=product.get('model_name', ''),

@@ -1,6 +1,13 @@
-import torch
-import torch.nn as nn
-from torchvision import transforms, models
+# 尝试导入深度学习库，失败时降级到基础CV模式
+try:
+    import torch
+    import torch.nn as nn
+    from torchvision import transforms, models
+    DEEP_LEARNING_AVAILABLE = True
+except ImportError:
+    DEEP_LEARNING_AVAILABLE = False
+    print("Warning: PyTorch not available, using basic CV mode")
+
 from PIL import Image
 import numpy as np
 from pathlib import Path
@@ -9,32 +16,34 @@ import json
 
 class CigarImageRecognizer:
     def __init__(self, model_path: str = None):
-        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        self.deep_learning = DEEP_LEARNING_AVAILABLE
         self.image_size = 224
         
-        # 使用预训练的EfficientNet
-        self.model = models.efficientnet_b0(pretrained=True)
-        
-        # 修改分类头
-        num_features = self.model.classifier[1].in_features
-        self.model.classifier = nn.Sequential(
-            nn.Dropout(0.2),
-            nn.Linear(num_features, 512),
-            nn.ReLU(),
-            nn.Dropout(0.3),
-            nn.Linear(512, 182)  # 182个雪茄产品类别
-        )
-        
-        self.model = self.model.to(self.device)
-        self.model.eval()
-        
-        # 图像预处理
-        self.transform = transforms.Compose([
-            transforms.Resize((self.image_size, self.image_size)),
-            transforms.ToTensor(),
-            transforms.Normalize(mean=[0.485, 0.456, 0.406],
-                               std=[0.229, 0.224, 0.225])
-        ])
+        if self.deep_learning:
+            self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+            # 使用预训练的EfficientNet
+            self.model = models.efficientnet_b0(pretrained=True)
+            
+            # 修改分类头
+            num_features = self.model.classifier[1].in_features
+            self.model.classifier = nn.Sequential(
+                nn.Dropout(0.2),
+                nn.Linear(num_features, 512),
+                nn.ReLU(),
+                nn.Dropout(0.3),
+                nn.Linear(512, 182)  # 182个雪茄产品类别
+            )
+            
+            self.model = self.model.to(self.device)
+            self.model.eval()
+            
+            # 图像预处理
+            self.transform = transforms.Compose([
+                transforms.Resize((self.image_size, self.image_size)),
+                transforms.ToTensor(),
+                transforms.Normalize(mean=[0.485, 0.456, 0.406],
+                                   std=[0.229, 0.224, 0.225])
+            ])
         
         # 特征数据库（模拟预计算的特征向量）
         self.feature_db = self._build_feature_database()

@@ -37,6 +37,11 @@ async def index(request: Request):
         "recent_searches": recent
     })
 
+@app.get("/health")
+async def health():
+    """健康检查端点"""
+    return {"status": "ok", "version": "1.0.0"}
+
 @app.get("/api/search")
 async def search(
     q: str,

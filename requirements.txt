@@ -5,6 +5,7 @@ python-multipart==0.0.6
 
 # Image Processing
 Pillow==10.2.0
+numpy==1.26.3
 
 # Fuzzy Search
 rapidfuzz==3.6.1

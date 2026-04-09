@@ -2,14 +2,10 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# 安装系统依赖（修复包名）
+# 安装系统依赖（仅Pillow所需）
 RUN apt-get update && apt-get install -y \
-    libgl1 \
-    libglib2.0-0 \
-    libsm6 \
-    libxext6 \
-    libxrender-dev \
-    libgomp1 \
+    libjpeg-dev \
+    zlib1g-dev \
     && rm -rf /var/lib/apt/lists/*
 
 # 复制依赖

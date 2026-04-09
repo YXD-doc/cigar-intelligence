@@ -3,15 +3,11 @@ fastapi==0.109.0
 uvicorn[standard]==0.27.0
 python-multipart==0.0.6
 
-# Image Processing (轻量版，无PyTorch)
+# Image Processing
 Pillow==10.2.0
-opencv-python-headless==4.9.0.0
 
 # Fuzzy Search
 rapidfuzz==3.6.1
-
-# Data Processing
-numpy==1.26.3
 
 # Utils
 pydantic==2.5.3

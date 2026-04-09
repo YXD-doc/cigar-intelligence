@@ -142,28 +142,39 @@ class CigarImageRecognizer:
     
     def _analyze_shape(self, img_array: np.ndarray) -> Dict:
         """分析形状"""
-        import cv2
-        
-        gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY)
-        _, thresh = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
-        
-        contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-        
-        if contours:
-            largest = max(contours, key=cv2.contourArea)
-            x, y, w, h = cv2.boundingRect(largest)
+        try:
+            import cv2
             
-            # 判断形状类型
-            shape_type = self._classify_shape(w, h)
+            gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY)
+            _, thresh = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
             
-            return {
-                'width': w,
-                'height': h,
-                'shape_type': shape_type,
-                'tapered': shape_type in ['鱼雷', '金字塔']
-            }
+            contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+            
+            if contours:
+                largest = max(contours, key=cv2.contourArea)
+                x, y, w, h = cv2.boundingRect(largest)
+                
+                # 判断形状类型
+                shape_type = self._classify_shape(w, h)
+                
+                return {
+                    'width': w,
+                    'height': h,
+                    'shape_type': shape_type,
+                    'tapered': shape_type in ['鱼雷', '金字塔']
+                }
+        except ImportError:
+            pass
         
-        return {'shape_type': '未知'}
+        # 降级：使用图像尺寸估算
+        h, w = img_array.shape[:2]
+        shape_type = self._classify_shape(w, h)
+        return {
+            'width': w,
+            'height': h,
+            'shape_type': shape_type,
+            'tapered': False
+        }
     
     def _classify_shape(self, w: int, h: int) -> str:
         """分类形状"""

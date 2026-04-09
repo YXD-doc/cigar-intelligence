@@ -39,8 +39,8 @@ async def index(request: Request):
 
 @app.get("/health")
 async def health():
-    """健康检查端点"""
-    return {"status": "ok", "version": "1.0.0"}
+    """健康检查端点 - 不加载数据库以快速响应"""
+    return {"status": "ok", "version": "1.0.0", "timestamp": "2024"}
 
 @app.get("/api/search")
 async def search(

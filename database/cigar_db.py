@@ -44,8 +44,14 @@ class CigarDatabase:
         self.products: List[CigarProduct] = []
         self.brands: Dict[str, str] = {}  # brand_id -> brand_name
         self.search_index: Dict[str, List[str]] = {}  # keyword -> [model_ids]
-        self._load_data()
-        self._build_index()
+        self._loaded = False
+    
+    def _ensure_loaded(self):
+        """延迟加载数据"""
+        if not self._loaded:
+            self._load_data()
+            self._build_index()
+            self._loaded = True
     
     def _load_data(self):
         """加载JSON数据库"""
@@ -117,6 +123,7 @@ class CigarDatabase:
     
     def search_fuzzy(self, query: str, limit: int = 10) -> List[Dict]:
         """模糊搜索"""
+        self._ensure_loaded()
         results = []
         query_lower = query.lower()
         
@@ -155,6 +162,7 @@ class CigarDatabase:
                           filler: Optional[str] = None,
                           cigar_type: Optional[str] = None) -> List[CigarProduct]:
         """交叉筛选"""
+        self._ensure_loaded()
         results = self.products
         
         if brand and brand != "all":
@@ -176,6 +184,7 @@ class CigarDatabase:
     
     def get_product_by_id(self, model_id: str) -> Optional[CigarProduct]:
         """通过ID获取产品"""
+        self._ensure_loaded()
         for p in self.products:
             if p.model_id == model_id:
                 return p
@@ -183,10 +192,12 @@ class CigarDatabase:
     
     def get_all_brands(self) -> List[Dict]:
         """获取所有品牌"""
+        self._ensure_loaded()
         return [{'id': k, 'name': v} for k, v in self.brands.items()]
     
     def get_all_origins(self) -> Dict[str, List[str]]:
         """获取所有产地选项"""
+        self._ensure_loaded()
         origins = {
             'wrapper': set(),
             'binder': set(),

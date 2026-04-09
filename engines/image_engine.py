@@ -4,9 +4,9 @@ try:
     import torch.nn as nn
     from torchvision import transforms, models
     DEEP_LEARNING_AVAILABLE = True
-except ImportError:
+except (ImportError, ValueError, OSError) as e:
     DEEP_LEARNING_AVAILABLE = False
-    print("Warning: PyTorch not available, using basic CV mode")
+    print(f"Warning: PyTorch not available ({e}), using basic CV mode")
 
 from PIL import Image
 import numpy as np

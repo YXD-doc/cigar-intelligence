@@ -3,22 +3,18 @@ fastapi==0.109.0
 uvicorn[standard]==0.27.0
 python-multipart==0.0.6
 
-# Image Processing & Deep Learning
+# Image Processing (轻量版，无PyTorch)
 Pillow==10.2.0
 opencv-python-headless==4.9.0.0
-torch==2.1.2
-torchvision==0.16.2
-timm==0.9.12
-transformers==4.37.2
 
 # Fuzzy Search
 rapidfuzz==3.6.1
 
 # Data Processing
 numpy==1.26.3
-pandas==2.1.4
 
 # Utils
 pydantic==2.5.3
 python-dotenv==1.0.0
 aiofiles==23.2.1
+Jinja2==3.1.3
